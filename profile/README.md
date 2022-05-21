@@ -1,3 +1,3 @@
 # MC.CFD
 
-[mc.cfd] 敬请期待
+mc.cfd 敬请期待
